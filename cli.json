@@ -1,0 +1,19 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/trycanal/cli/releases/download/v0.0.1/cli_0.0.1_windows_amd64.zip",
+            "bin": [
+                "canal.exe"
+            ],
+            "hash": "621e4b0c8295b77368f0d5731cd021dfb4acd92103696f1301fe12a7f300045a"
+        }
+    },
+    "homepage": "https://trycanal.com",
+    "license": "MIT",
+    "description": "Canal - the all-in-one Customer Platform",
+    "persist": [
+        "data",
+        "config.toml"
+    ]
+}
