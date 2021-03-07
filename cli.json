@@ -1,12 +1,12 @@
 {
-    "version": "0.0.3",
+    "version": "0.0.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/trycanal/cli/releases/download/v0.0.3/cli_0.0.3_windows_amd64.zip",
+            "url": "https://github.com/trycanal/cli/releases/download/v0.0.4/cli_0.0.4_windows_amd64.zip",
             "bin": [
                 "canal.exe"
             ],
-            "hash": "85db5cfd35acb0c6585d2acac484219aad50773851aaca3dab00b5c7c12f9a8d"
+            "hash": "ef137728ccf59c23444f89b1a2a2117979deba12213a4cbad3f6796803d37428"
         }
     },
     "homepage": "https://trycanal.com",
